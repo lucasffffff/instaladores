@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="instaladore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/instaladore_jar</output-path>
+    <root id="archive" name="instaladore.jar">
+      <element id="module-output" name="instaladore" />
+    </root>
+  </artifact>
+</component>
